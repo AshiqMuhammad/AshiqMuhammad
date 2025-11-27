@@ -1,16 +1,12 @@
 ## Hi there 👋
 
-<!--
-Hi i am muhammad Ashiq And wellcome to my profile.
+Hi, I am Muhammad Ashiq. Welcome to my profile!
 
-Here above me :
+### About Me
+- 🧠 I’m currently working on Gen-AI applications  
+- 🌱 I’m learning Machine Learning  
+- 🤝 I’m looking to collaborate with developers  
+- 🆘 I’m looking for help with AI projects  
+- 💬 Ask me about becoming a Gen-AI developer  
+- 📫 How to reach me: muhammadashiqq85@gmail.com 
 
-- 🔭 I’m currently working on .Gen Ai application..
-- 🌱 I’m currently learning .Machine Learning..
-- 👯 I’m looking to collaborate on .i code guru..
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ..Passoante to work with expert gen ai developer.
-- 📫 How to reach me: ...Muhammadashiqmagsii@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .playing..
--->
